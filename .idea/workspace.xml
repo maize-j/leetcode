@@ -1,109 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade7a7e9-d5f5-4488-aa04-42624ca54964" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/middle/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/middle/CanJump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/middle/GenerateParenthesis$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/middle/GenerateParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/middle/Jump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/middle/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/AgariBacktrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/FTTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/FTTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/GJTEst1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/GJTEst2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/GJTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/GJTest4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$MasterFieldVal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestBaidu1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestBaidu2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Testt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/CountAndSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/FindContinuousSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/FirstUniqChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/GetIntersectionNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/GetLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/Intersection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IsBalanced.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IsPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IsPalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IsStraight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IsValid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/IslandPerimeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/KthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/LastRemaining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/LengthOfLastWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/LowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/LowestCommonAncestor2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/MajorityElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/MaxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/MaxSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/MergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/ReverseLeftWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/ReverseListRecursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/ReverseWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/RomanToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/RomanToInt1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/SearchInsert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/StrStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/UniqueOccurrences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easy/ValidMountainArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/easyEntity/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/hard/Codec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/hard/CountDigitOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/hard/MaxSlidingWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/hard/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/ConstructArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/CopyRandomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/DicesProbability.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/FindNthDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/FindNumberInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/FourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/KClosest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/LengthOfLongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/LevelOrder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/LevelOrder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/LevelOrder3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/MaxArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/MaxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/MaxQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/MaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/MinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/NextPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/NthUglyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/SingleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/SingleNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/StrToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/SumNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/SumNumbers1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/SumNums.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/ThreeSumClosest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/TreeToDoublyList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/medium/VerifyPostorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/mediumEntity/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/剑指offer/mediumEntity/TreeNode.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ade7a7e9-d5f5-4488-aa04-42624ca54964" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +150,7 @@
       <workItem from="1636289650257" duration="4930000" />
       <workItem from="1636373363047" duration="5665000" />
       <workItem from="1636451704890" duration="8000" />
-      <workItem from="1636633925146" duration="2984000" />
+      <workItem from="1636633925146" duration="3245000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题">
       <created>1635739648466</created>
@@ -310,10 +208,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="457" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1635343225940" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1636382414299">
+    <state x="422" y="12" key="CommitChangelistDialog2" timestamp="1636636984008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1636382414299" />
+    <state x="422" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1636636984008" />
     <state width="418" height="438" key="DebuggerActiveHint" timestamp="1631542800385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -322,22 +220,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1634133932023" />
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1636636923931">
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1636636987840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636636923931" />
-    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1636636923931">
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636636987840" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1636636987840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1636636923931" />
-    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1636636923930">
+    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1636636987840" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1636636987840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1636636923930" />
-    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1636636923931">
+    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1636636987840" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1636636987840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1636636923931" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1636636987840" />
     <state width="1493" height="194" key="GridCell.Tab.1.bottom" timestamp="1636382170998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
