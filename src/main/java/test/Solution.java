@@ -8,43 +8,32 @@ package test;
  * @date 2021/10/12 20:28
  */
 public class Solution {
-    public static int num = 0;
-    public static int solution(int m, int n) {
-        boolean[][] flag = new boolean[m][n];
-        for(int i = 0;i<m;i++){
-            for(int j = 0;j<n;j++){
-                flag[i][j] = false;
-            }
-        }
-        backtrack(n,m-1,n-1,flag);
-        return num;
-    }
-    public static void backtrack(int n,int i, int j,boolean[][] flag){
-        if(i==0 && j==0){
-            num = num + 1;
-            return;
-        }
-        flag[i][j] = true;
-        if(j > 0){
-            if(!flag[i][j-1]){
-                backtrack(n,i,j-1,flag);
-            }
-        }
-        if(j < n-1){
-            if(!flag[i][j+1]){
-                backtrack(n,i,j+1,flag);
-            }
-        }
-        if(i > 0){
-            backtrack(n,i-1,j,flag);
-        }
-        flag[i][j] = false;
+
+    private int a;
+    private int b;
+
+    public Solution(int a ,int b){
+        this.a = a;
+        this.b = b;
     }
 
     public static void main(String[] args) {
-        int m = 2;
-        int n = 3;
-        int solution = solution(m, n);
-        System.out.println(solution);
+//        short i = 1;
+////        i= i+1; //需要显示的类型转换 i = (short) i+1;
+//        i += 1; //自动执行了隐式类型转化
+//        i++; //自动执行了隐式类型转化
+//
+//        String a = "a";
+//
+//        switch(a){
+//            case "a":break;
+//            case "b":break;
+//        }
+        int a = 1;
+        int b = 2;
+        Solution solution = new Solution(a,b);
+        Solution solution1 = new Solution(a,b);
+        System.out.println(solution.equals(solution1));
+
     }
 }
