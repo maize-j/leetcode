@@ -35,9 +35,9 @@ public class FourSum {
         }
 
         for(int i = begin; i < nums.length; i++ ){
-            if(nums.length - i  < 4 - list.size())return;
-            if(begin != i && nums[i - 1] == nums[i])continue;
-            if(i < nums.length - 1 && cur + nums[i] + (3 - list.size()) * nums[i + 1] > target)return;
+            if(nums.length - i  < 4 - list.size())return;  //nums中数字不够计算了
+            if(begin != i && nums[i - 1] == nums[i]) continue;  //存在重复数字
+            if(i < nums.length - 1 && cur + nums[i] + (3 - list.size()) * nums[i + 1] > target)return; //用后面最小的数计算，如果超过target，说明没有合适的数字，直接返回
             if(i < nums.length - 1 && cur + nums[i] + (3 - list.size()) * nums[nums.length - 1] < target)continue;
             cur += nums[i];
             list.add(nums[i]);
@@ -48,8 +48,10 @@ public class FourSum {
     }
 
     public static void main(String[] args) {
-        int[] nums = {};
-        int target = 0;
+//        int[] nums = {1,0,-1,0,-2,2};
+        int[] nums = {-5,-4,-3,-2,-1,3,4,5};
+//        int target = 0;
+        int target = 6;
         List<List<Integer>> lists = fourSum(nums, target);
         System.out.println(lists);
     }
