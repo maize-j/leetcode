@@ -50,6 +50,7 @@ public class CombinationSum {
         if(sum == target){
             //sum与target值相等时，将list加入最终的结果中
             result.add(new ArrayList<>(list));
+            return;
         }
 
         for(;index<nums.length;index++){

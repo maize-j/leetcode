@@ -66,11 +66,13 @@ public class FourSum {
 //        int[] nums = {2,2,2,2,2};
 //        int[] nums = {-5,-4,-3,-2,-1,0,0,1,2,3,4,5};
 //        int[] nums = {-5,-4,-3,-2,-1,3,4,5};
-        int[] nums = {0,0,0,1000000000,1000000000,1000000000,1000000000};
+//        int[] nums = {0,0,0,1000000000,1000000000,1000000000,1000000000};
 //        int target = 0;
 //        int target = 6;
 //        int target = 8;
-        int target = 1000000000;
+//        int target = 1000000000;
+        int[] nums = {1,1,2,2,3,3,4,4,5,5};
+        int target = 10;
         List<List<Integer>> lists = fourSum(nums, target);
         for(List<Integer> list:lists){
             System.out.println(list);
